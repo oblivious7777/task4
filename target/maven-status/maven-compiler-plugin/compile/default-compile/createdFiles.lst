@@ -1,0 +1,10 @@
+com\task\service\CategoryService.class
+com\task\controller\CategoryController.class
+com\task\model\Category.class
+com\task\units\DateTag.class
+com\task\service\impl\CategoryServiceImpl.class
+com\task\aspect\AspectTime.class
+com\task\model\Category_.class
+com\task\units\Page.class
+com\task\dao\CategoryMapper.class
+com\task\units\CategoryDynaSqlProvider.class
